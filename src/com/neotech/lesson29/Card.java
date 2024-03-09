@@ -1,7 +1,8 @@
 package com.neotech.lesson29;
 
 public class Card {
-
+//some changes
+	
 	String type;
 	int limit;
 		
